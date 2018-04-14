@@ -1,4 +1,4 @@
-fid = fopen('data/train.csv');
+fid = fopen('train.csv');
 train = textscan(fid, '%d%d%d%q%s%d%d%d%s%f%s%s', 'delimiter', ',', ...
     'headerLines', 1);
 fclose(fid);
