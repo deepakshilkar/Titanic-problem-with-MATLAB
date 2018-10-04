@@ -1,1 +1,1 @@
-# titanicMATLAB
+Titanic problem using MATLAB
